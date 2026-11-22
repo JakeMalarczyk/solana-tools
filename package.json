@@ -1,0 +1,10 @@
+{
+  "name": "solana-tools",
+  "version": "0.1.0",
+  "description": "Logic behind the free Orivions tools for Solana teams: program upgrade authority check, audit and dApp cost estimates, RFP templates.",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "https://orivions.com/tools",
+  "repository": { "type": "git", "url": "git+https://github.com/JakeMalarczyk/solana-tools.git" },
+  "keywords": ["solana", "audit", "upgrade-authority", "rfp", "security"]
+}
